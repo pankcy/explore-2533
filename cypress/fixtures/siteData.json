@@ -1,0 +1,45 @@
+{
+    "hero": {
+        "title": "pankaj",
+        "description": "This is a placeholder text for the sub heading"
+    },
+    "categories": {
+        "category1": "Category 1",
+        "category2": "Category 2",
+        "category3": "Category 3"
+    },
+    "courses": {
+        "course1": {
+            "courseName": "Course 1",
+            "courseDesc": "Course 1 short description "
+        },
+        "course2": {
+            "courseName": "course 2",
+            "courseDesc": "course 2 short desc "
+        },
+        "course3": {
+            "courseName": "Course 3",
+            "courseDesc": "This is course 3 short description "
+        },
+        "course4": {
+            "courseName": "Course 4",
+            "courseDesc": "course 4 short description "
+        },
+        "course5": {
+            "courseName": "Course 5",
+            "courseDesc": "This is course 5 short des "
+        },
+        "course6": {
+            "courseName": "Course 6",
+            "courseDesc": "course 6 short description is here "
+        },
+        "course7": {
+            "courseName": "Course 7",
+            "courseDesc": "This is course 7 description in short format "
+        },
+        "course8": {
+            "courseName": "Course 8",
+            "courseDesc": "This is course 8 short description in a sentence"
+        }
+    }
+}
